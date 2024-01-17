@@ -1,0 +1,35 @@
+body{
+    background: rgb(224, 163, 133) url("imagens/fundo.png") ;
+    font: 16px Arial,Helvetica,sans-serif;
+    text-align: center;
+}
+#principal{
+   width: 900px;
+      
+}
+#menu{
+    background: rgb(247, 226, 199);
+    padding: 18px;
+}
+#conteudo{
+    background: beige;
+    padding: 10px;
+
+}
+.rodape{
+    text-align: center;
+}
+
+a{
+    color: rgb(31, 63, 52);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+   
+}
+.titulo{
+    font-style: italic;
+    color: rgb(233, 180, 66);
+  
+}
+
